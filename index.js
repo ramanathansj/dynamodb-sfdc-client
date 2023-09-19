@@ -1,5 +1,5 @@
 /**
- * @description       : 
+ * @description       : order trigger lambda function main file which process events and convert to salesforce inbound queue object
  * @author            : Ramanathan
  * @group             : 
  * @last modified on  : 09-18-2023

@@ -1,5 +1,5 @@
 /**
- * @description       : 
+ * @description       : simple sfdc client based on jsforce to post data
  * @author            : Ramanathan
  * @group             : 
  * @last modified on  : 09-18-2023
