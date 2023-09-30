@@ -1,6 +1,6 @@
 # dynamodb-sfdc-client
 
-## Dreamforce 2023 : Fundamentals for Designing Event Driven Integrations
+### Dreamforce 2023 : Fundamentals for Designing Event Driven Integrations
 
 ### DynamoDB Event streams integration with Salesforce
 
