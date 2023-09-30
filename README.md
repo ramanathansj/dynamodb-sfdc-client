@@ -1,5 +1,8 @@
 # dynamodb-sfdc-client
-Dreamforce 2023 demo sub project for sending event streams from DynamoDB to Salesforce
+
+## Dreamforce 2023 : Fundamentals for Designing Event Driven Integrations
+
+### DynamoDB Event streams integration with Salesforce
 
 Please enter salesforce org user name, password, security key in .env file
 
